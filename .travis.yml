@@ -4,7 +4,6 @@ language: java
 
 jdk:
   - openjdk8.3.31
-  - openjdk11.0.15
 script:
   - java -version
   - javac Hello.java
