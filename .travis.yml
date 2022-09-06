@@ -1,6 +1,6 @@
 dist: xenial
-group: dev
-language: java
+group: edge
+language: opal
 script:
   - java -version
   - javac Hello.java
